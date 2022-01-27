@@ -1,0 +1,10 @@
+jira.Field __________@_01513_01491_01492s_01489_01506_01489_01512_01497_01514 {
+  name = "שדה בעברית"
+  description = ""
+  isLocked = false
+  searcherKey = "com.atlassian.jira.plugin.system.customfieldtypes:labelsearcher"
+  contexts = [
+    jira.CustomFieldContext.instance.___________Default_Configuration_Scheme_for___________@_01513_01491_01492s_01489_01506_01489_01512_01497_01514ussss_01513_01491_01492s_01489_01506_01489_01512_01497_01514,
+  ]
+  type = "com.atlassian.jira.plugin.system.customfieldtypes:labels"
+}
