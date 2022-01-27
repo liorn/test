@@ -1,0 +1,8 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "9f7cdc1f-0626-49c6-8db8-85cad78c8d62"
+      folderName = "testing weird characters"
+    },
+  ]
+}
